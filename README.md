@@ -4,9 +4,12 @@
 A project to text custom API with the official iframe of youtube.
 Certainly! The youtube_player_flutter package provides more advanced features and customization options for implementing a YouTube player in Flutter. 
 
+<center>
 ![Screenshot 2023-07-01 120321](https://github.com/Jackfrst/youtube_video_player/assets/60434580/9bd4e5f9-4ba2-4742-918e-b0117bbea3f0)|
 |:--:| 
 | *Main Screeen* |
+</center>
+
 
 ![Screenshot 2023-07-01 121354](https://github.com/Jackfrst/youtube_video_player/assets/60434580/ae14466d-e900-4656-bd73-add2065286ab)
 |:--:| 
