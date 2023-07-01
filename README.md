@@ -43,7 +43,7 @@ Build APK files from the project:
    - Youtube ID extraction 
    - Youtube video Player 
    - Meta Data Extraction 
-   - Lesson Wise Custom licks 
+   - Lesson Wise Custom links 
 
 ## New to Flutter?
 
