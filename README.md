@@ -1,4 +1,5 @@
-# youtube_player
+# youtube_player_flutter
+# Solved the full-Screen problem
 
 A project to text custom API with the official iframe of youtube.
 Certainly! The youtube_player_flutter package provides more advanced features and customization options for implementing a YouTube player in Flutter. 
@@ -7,12 +8,17 @@ Certainly! The youtube_player_flutter package provides more advanced features an
 |:--:| 
 | *Main Screeen* |
 
+![image](https://github.com/Jackfrst/youtube_video_player/assets/60434580/7fe9f58e-543a-4f6c-b4ab-d81760cbcb7d)
+
+|:--:| 
+| *Player Feature ShowCase* |
+
 ## Getting Started
 
 Step 0:
 
 Prerequisite:
-You will need a Custom API for your self the required API data Structer can be found in the Model class.Then add a consumer to extract the data to send into the youtube player.
+You will need a Custom API for your self the required API data Structer can be found in the Model class. Then add a consumer to extract the data to send to the youtube player.
 
 Step 1:
 
@@ -33,6 +39,7 @@ Build APK files from the project:
     flutter build apk
 
 ## Features
+   - Solved the full-Screen problem of the Youtube player 
    - Custom API fetch
    - Youtube ID extraction 
    - Youtube video Player 
