@@ -10,6 +10,7 @@ Certainly! The youtube_player_flutter package provides more advanced features an
 ## Getting Started
 
 Step 0:
+
 Prerequisite:
 You will need a Custom API for your self the required API data Structer can be found in the Model class.Then add a consumer to extract the data to send into the youtube player.
 
