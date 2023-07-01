@@ -8,8 +8,7 @@ Certainly! The youtube_player_flutter package provides more advanced features an
 |:--:| 
 | *Main Screeen* |
 
-![image](https://github.com/Jackfrst/youtube_video_player/assets/60434580/7fe9f58e-543a-4f6c-b4ab-d81760cbcb7d)
-
+![Screenshot 2023-07-01 121354](https://github.com/Jackfrst/youtube_video_player/assets/60434580/ae14466d-e900-4656-bd73-add2065286ab)
 |:--:| 
 | *Player Feature ShowCase* |
 
