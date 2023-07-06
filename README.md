@@ -12,6 +12,14 @@ Certainly! The youtube_player_flutter package provides more advanced features an
 |:--:| 
 | *Player Feature ShowCase* |
 
+## Features
+   - Solved the full-Screen problem of the Youtube player 
+   - Custom API fetch
+   - Youtube ID extraction 
+   - Youtube video Player 
+   - Meta Data Extraction 
+   - Lesson Wise Custom links 
+
 ## Getting Started
 
 Step 0:
@@ -37,13 +45,6 @@ Build APK files from the project:
 
     flutter build apk
 
-## Features
-   - Solved the full-Screen problem of the Youtube player 
-   - Custom API fetch
-   - Youtube ID extraction 
-   - Youtube video Player 
-   - Meta Data Extraction 
-   - Lesson Wise Custom links 
 
 ## New to Flutter?
 
